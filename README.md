@@ -1,4 +1,4 @@
-# **HKUer's Global Escape —— by Group 23**
+# **HKUer's Global Escape**
 ## Game Description & Rules
 
 > You were kidnapped by a mysterious man !!!
@@ -41,21 +41,6 @@
 **"Killer"**                 Killer location.
 
 **"You"**                       Your location.
-
-## Team Members（alphabetical order）
-
-1. Chen Airui
-    - uid: 3036227719
-    - email: ivy204@connect.hku.hk
-    - github account: ChenIvy204
-2. Huang Junran
-    - uid: 3036226909
-    - email: huangjr@connect.hku.hk
-    - github account: florenccce
-3. Yau Tin
-    - uid: 3036226686
-    - email: autumn04@connect.hku.hk
-    - github account: qt1119
 
 ## Introduction Video
 
