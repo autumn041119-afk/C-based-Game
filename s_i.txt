@@ -1,0 +1,18 @@
+                    < Introduction to Symbols >                    
+                                                                   
+     "*"                 Escape routes you can choose.             
+     "Destination"       The destination you need to go to.        
+     "now"               where you are now.                        
+                                                                   
+     "@"                 player position.                          
+     "&"                 Enemies who encounter you will be reset to
+                         original position.                        
+     "E"                 Exits in the game.                        
+     "."                 Walkable area.                            
+     "w"                 Player moves up.                          
+     "a"                 Player goes left.                         
+     "s"                 Player goes down.                         
+     "d"                 Player goes right.                        
+                                                                   
+     "Killer"            Killer location.                          
+     "You"               Your location.                            
